@@ -3,7 +3,7 @@ import { FaArrowCircleRight } from "react-icons/fa";
 import user1 from "../assets/deepclea.jpg";
 import user2 from "../assets/organising.jpg";
 import user4 from "../assets/42902.jpg";
-import user3 from "../assets/moving.jpg";
+import user3 from "../assets/moving-min.jpg";
 import { motion } from "framer-motion";
 import { desc, title } from 'framer-motion/client';
 

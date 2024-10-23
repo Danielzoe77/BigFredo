@@ -8,7 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'working-img' :"url('./src/assets/professional-cleaning-service-people-working-together-office.jpg')" ,
-        'work-img' :"url('./src/assets/danny.jpg')"
+        'work-img' :"url('./src/assets/danny-min.jpg')"
       },
       fontFamily: {
         'primary' : ['Poppins', 'sans-serif'],

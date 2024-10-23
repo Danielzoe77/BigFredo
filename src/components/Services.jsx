@@ -1,7 +1,7 @@
 import React from "react";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 // import "react-tabs/style/react-tabs.css";
-import user1 from "../assets/cheerful-dark-skinned-housewife-holds-chemical-detergent-mop-looks-gladfully.jpg";
+import user1 from "../assets/cheerful-dark-skinned-housewife-holds-chemical-detergent-mop-looks-gladfully-min.jpg";
 import user2 from "../assets/ffgr.jpg";
 import user4 from "../assets/42902.jpg";
 import user3 from "../assets/group-happy-african-volunteers-with-garbage-bags-cleaning-area-park-africa-volunteering-charity-people-ecology-concept.jpg";
