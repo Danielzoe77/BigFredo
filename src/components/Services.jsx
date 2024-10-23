@@ -158,16 +158,15 @@ const Services = () => {
                   Restaurant Cleaning
                   </h3>
                   <p className="mb-8">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Amet, totam!{" "}
+                  Regular cleaning eliminates food residue, reducing the likelihood of pest infestations{" "}
                   </p>
                   <h4 className="text-xl font-medium text-black mb-4">
                     Benefits
                   </h4>
                   <ul className="list-disc list-inside space-y-3">
-                    <li> Understanding Relationship Dynamics</li>
-                    <li> Understanding Relationship Dynamics</li>
-                    <li> Understanding Relationship Dynamics</li>
+                    <li>Enhances customer satisfaction</li>
+                    <li> Increases staff productivity</li>
+                    <li> Reduces maintenance cost</li>
                   </ul>
                 </div>
                 <div className="md:w-1/2">
