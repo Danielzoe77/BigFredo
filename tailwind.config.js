@@ -8,7 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'working-img' :"url('./src/assets/professional-cleaning-service-people-working-together-office.jpg')" ,
-        'work-img' :"url('./src/assets/danny-min.jpg')"
+        'work-img' :"url('./src/assets/group-happy-african-volunteers-with-garbage-bags-cleaning-area-park-africa-volunteering-charity-people-ecology-concept-min.jpg')"
       },
       fontFamily: {
         'primary' : ['Poppins', 'sans-serif'],
