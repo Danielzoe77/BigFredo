@@ -20,13 +20,14 @@ const Services = () => {
           className="text-center space-y-5"
         >
           <h2 className="text-4xl font-secondary font-bold text-heroBg">
-            What Can we do together
+            What Can we do for you
           </h2>
           ;
           <p className="md:w-1/2 mx-auto">
-            At Big Fredo Cleaning Services, we're committed to delivering exceptional
-            cleaning services that exceed our customers' expectations. Our goal
-            is to provide solutions Outshine the Competition
+            At Big Fredo Cleaning Services, we're committed to delivering
+            exceptional cleaning services that exceed our customers'
+            expectations. Our goal is to provide solutions Outshine the
+            Competition
           </p>
         </motion.div>
 
@@ -56,10 +57,11 @@ const Services = () => {
               >
                 <div className="md:w-1/2 bg-white rounded-lg mr-10 md:mr-0  p-12 font-secondary">
                   <h3 className="text-3xl font-semibold text-primary mb-4 ">
-                  Deep Cleaning
+                    Deep Cleaning
                   </h3>
                   <p className="mb-8">
-                  Our deep cleaning services aim to restore your space to its original sparkle, paying attention to every detail.!{" "}
+                    Our deep cleaning services aim to restore your space to its
+                    original sparkle, paying attention to every detail.{" "}
                   </p>
                   <h4 className="text-xl font-medium text-black mb-4">
                     Benefit
@@ -89,16 +91,22 @@ const Services = () => {
               >
                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                   <h3 className="text-3xl font-semibold text-primary mb-4 ">
-                  Office Cleaning
+                    Office Cleaning
                   </h3>
                   <p className="mb-8">
-                  Our office cleaning services ensure a healthy, productive, and impressive work environment. Our trained staff uses eco-friendly products and state-of-the-art equipment to provide customized cleaning solutions.!{" "}
+                    Our office cleaning services ensure a healthy, productive,
+                    and impressive work environment. Our trained staff uses
+                    eco-friendly products and state-of-the-art equipment to
+                    provide customized cleaning solutions.{" "}
                   </p>
                   <h4 className="text-xl font-medium text-black mb-4">
                     Benefit
                   </h4>
                   <ul className="list-disc list-inside space-y-3">
-                    <li> Cleaning and disinfecting bathrooms, and break rooms</li>
+                    <li>
+                      {" "}
+                      Cleaning and disinfecting bathrooms, and break rooms
+                    </li>
                     <li> Flexible scheduling</li>
                     <li> Eco-friendly cleaning products</li>
                   </ul>
@@ -122,10 +130,13 @@ const Services = () => {
               >
                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                   <h3 className="text-3xl font-semibold text-primary mb-4 ">
-                  Move-In/Move-Out
+                    Move-In/Move-Out
                   </h3>
                   <p className="mb-8">
-                  Our comprehensive Move-In/Move-Out cleaning services ensure a seamless transition for tenants and property managers. Our trained staff uses eco-friendly products provide customized cleaning solutions.!{" "}
+                    Our comprehensive Move-In/Move-Out cleaning services ensure
+                    a seamless transition for tenants and property managers. Our
+                    trained staff uses eco-friendly products provide customized
+                    cleaning solutions.{" "}
                   </p>
                   <h4 className="text-xl font-medium text-black mb-4">
                     Benefits
@@ -155,10 +166,11 @@ const Services = () => {
               >
                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                   <h3 className="text-3xl font-semibold text-primary mb-4 ">
-                  Restaurant Cleaning
+                    Restaurant Cleaning
                   </h3>
                   <p className="mb-8">
-                  Regular cleaning eliminates food residue, reducing the likelihood of pest infestations{" "}
+                    Regular cleaning eliminates food residue, reducing the
+                    likelihood of pest infestations{" "}
                   </p>
                   <h4 className="text-xl font-medium text-black mb-4">
                     Benefits
