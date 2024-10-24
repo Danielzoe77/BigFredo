@@ -7,7 +7,7 @@ import "../App.css";
 
 const WorkinStep = () => {
   return (
-    <div className="relative bg-cover bg-center py-12 bg-work-img ">
+    <div className="relative bg-cover bg-center py-12 bg-[#1a0d44] ">
       <div className="absolute inset-0 bg-heroBg bg-opacity-85 "></div>
       {/* <FaWhatsapp className='text-6xl font-bold  text-[#209745] ' /> */}
       <a

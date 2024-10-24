@@ -7,14 +7,14 @@ import { fadeIn } from "../utils/animationVariants";
 const TestimonialCard = () => [
   {
     name: "Peace Noble",
-    location: "Vancouver, CANADA",
+    location: "Montreal, CANADA",
     review:
       "“Very highly recommend Big Fredo Cleaning Services! They do an absolutely amazing job on our house - it's so lovely having such a sparkling house after they've been. They're also super friendly people, made any anxieties about having someone come in to clean disappear.”",
     image: review1,
   },
   {
     name: "Mimi Wisdom",
-    location: "Toronto, CANADA",
+    location: "Montreal, CANADA",
     review: "We had a house clean after I won their Christmas competition! Our house looked and smelt amazing! Honestly couldn't recommend them enough! Will defiantly be using their services again!",
     image: review2,
   },

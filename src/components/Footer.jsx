@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className=' flex items-center space-x-2 w-[110px] h-[80px]'>
                     <img src={footerLogo} alt=""  />
                 </div>
-                <p className='text-para '>"Trust Big Fredo for professional, reliable cleaning solutions in Canada. Our expert team delivers exceptional commercial and domestic cleaning services."</p>
+                <p className='text-para '>Trust Big Fredo for professional, reliable cleaning solutions in montreal Canada. Our expert team delivers exceptional commercial and domestic cleaning services.</p>
                 <div className='flex space-x-4 mt-4'>
                     <a href="#" className='bg-gray-200 text-primary p-2 size-10 flex items-center justify-center hover:bg-primary hover:text-white rounded-full'>
                         <FaFacebook className=' text-xl' />
