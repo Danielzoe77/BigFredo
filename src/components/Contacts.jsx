@@ -72,7 +72,7 @@ const Contacts = () => {
                 </div>
                 <div className="space-y-1">
                   <h3 className="text-lg font-medium text-white mb-2">
-                  rue jean- talon E, montreal QC
+                  3164 rue jean-talon E
                   </h3>
                   <p className="text-white">
                     We are always on high alert ready to respond promptly. {" "}
