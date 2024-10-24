@@ -60,7 +60,7 @@ const Footer = () => {
                 <ul className='space-y-3'>
                     <li className='flex items-center gap-2'>
                         <FaMapMarkerAlt className='text-primary ' />
-                        <p className='text-gray-700 '>rue jean- talon E, montreal QC</p>
+                        <p className='text-gray-700 '>3164 rue jean-talon E</p>
                     </li>
                     <li className='flex items-center gap-2'>
                         <FaMapMarkerAlt className='text-primary ' />
